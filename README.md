@@ -13,4 +13,4 @@ After the passenger is dropped off, select the next passenger.
 Continue until your shift ends.
 
 # Tech
-Implements Kevin O'Neil's A* Pathfinding library for taxy navigation.
+Implements my [A* Pathfinding library](https://github.com/killazilla54/AStar-Pathfinding) for taxi navigation.
